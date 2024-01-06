@@ -1,4 +1,3 @@
-package Udemy_SarkiciProcesi;
 
 import java.util.Scanner;
 
